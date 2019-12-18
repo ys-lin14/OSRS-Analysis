@@ -7,7 +7,7 @@ Contents:
   
 Context:\
 The data was collected over a 3-hour period with the total experience being recorded every 10 minutes in Microsoft Excel.
-It consists of defence experience obtained from training at monks in Edgeville on a defence pure wielding an Event RPG.
+It consists of defence experience obtained by a defence pure wielding an Event RPG training at monks in Edgeville.
 
 References\
 *Old School Runescape* [Game]. (2013). Cambridge: Jagex Ltd.
