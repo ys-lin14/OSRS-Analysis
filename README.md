@@ -6,7 +6,7 @@ Contents:
   * data collected while playing OSRS - refer to context for more details
   
 Context:\
-The data was collected over a 3-hour period with the total experience being recorded every 10 minutes in Microsoft Excel.
+The data was obtained over a 3-hour period with the total experience being recorded every 10 minutes in Microsoft Excel.
 It consists of defence experience obtained by a defence pure wielding an Event RPG training at monks in Edgeville.
 
 References\
