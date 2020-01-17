@@ -1,5 +1,5 @@
 # OSRS-Analysis
-Speed or Accuracy?
+Attack Speed or Accuracy?
 A project investigating experience rates and hit probabilities in the game Old School Runescape (OSRS) to satisfying my curiosity.
 
 Contents:
