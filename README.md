@@ -13,7 +13,7 @@ Contents:
   * ordinary least squares linear regression from scratch and using stats from SciPy
   * data visualization using Seaborn scatter plots
   
-* probability
+* hypothesis_testing
   * more dataframe manipulation using pandas
   * tests hypotheses using the Normal (Z-Test) and Student distribution (T-Test)
     * functions created to calculate power, test statistics and p-values / uses existing functions from the stats module
