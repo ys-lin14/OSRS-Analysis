@@ -21,7 +21,7 @@ Contents:
   * uses Seaborn lineplots and the matplotlib fill between option to create visual aids representing the rejection regions of the hypotheses test 
   
 Game Context:
-The data was obtained from training my defence pure at monks in Edgeville. Presented with an iron scimitar which had attack bonuses but was slower versus a faster Event RPG (cosmetic weapon) without any attack bonuses, I wished to determine the difference between the two.
+The data was obtained from training my defence pure at monks in Edgeville. Presented with a slower iron scimitar with attack bonuses  versus a faster Event RPG (cosmetic weapon) without any attack bonuses, I set out to determine which was better.
 
 References\
 *Old School Runescape* [Game]. (2013). Cambridge: Jagex Ltd.
