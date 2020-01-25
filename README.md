@@ -1,6 +1,6 @@
 # OSRS-Analysis
 Attack speed or accuracy?
-A project investigating experience rates and hit probabilities in the game Old School Runescape (OSRS) to satisfying my curiosity.
+A project investigating experience rates and hit probabilities in the game Old School Runescape (OSRS) to both save time and satisfy my curiosity.
 
 Contents:
 * data (rpg_data.csv, scim_data.csv, combined_data.csv, combined_probability_data.csv) 
