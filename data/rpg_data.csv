@@ -1,4 +1,4 @@
-﻿Time (min),Total Defence Exp,Delta Def Exp,Def Exp Gained,Delta HP Exp,HP Exp Gained
+﻿time_(min),total_defence_exp,delta_def_exp,def_exp_gained,delta_hp_exp,hp_exp_gained
 0,125253,0,0,0,0
 10,125521,268,268,89.11,89.11
 20,125785,264,532,87.78,176.89

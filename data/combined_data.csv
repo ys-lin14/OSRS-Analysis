@@ -1,4 +1,4 @@
-Time (min),Exp Gained,Exp Type,Weapon
+time_(min),exp_gained,exp_type,weapon
 0,0.0,defence,Event RPG
 10,268.0,defence,Event RPG
 20,532.0,defence,Event RPG
