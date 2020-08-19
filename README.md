@@ -1,4 +1,4 @@
-# OSRS-analysis
+# OSRS-Analysis
 #### Context
 I wanted to determine the differences between two weapons (shown below) in the game Old School RuneScape.
 Data was collected over 6 hours (3 hours per weapon) with 10-minute intervals between observations.
@@ -26,3 +26,6 @@ Data was collected over 6 hours (3 hours per weapon) with 10-minute intervals be
 |     Hours until level 75      |      844      |    709    |
 
 The Iron Scimitar was more accurate than the Event RPG while the Event RPG was more efficient for training.
+
+#### References
+*Old School Runescape* [Game]. (2013). Cambridge: Jagex Ltd.
